@@ -5,6 +5,6 @@ package main.java.lab1;/*
 
 public class Library {
 	public static void main(String arg[]) {
-		System.out.println("HEHE");
+		System.out.println("ABA");
 	}
 }
